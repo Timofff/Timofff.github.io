@@ -1,0 +1,198 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+main{
+display: flex;
+width: 80%;
+margin: auto;
+flex-wrap: wrap;
+box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+max-width: 1000px;
+color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Картинки70
+{background-image: url(../img/Картинки70.jpg);}
+.Картинки71
+{background-image: url(../img/Картинки71.jpg);}
+.Картинки72
+{background-image: url(../img/Картинки72.jpg);}
+.Картинки73
+{background-image: url(../img/Картинки73.jpg);}
+.Картинки74
+{background-image: url(../img/Картинки74.jpg);}
+.Картинки75
+{background-image: url(../img/Картинки75.jpg);}
+.Картинки76
+{background-image: url(../img/Картинки76.jpeg);}
+.Картинки77
+{background-image: url(../img/Картинки77.jpg);}
+.Картинки78
+{background-image: url(../img/Картинки78.jpg);}
+.Картинки79
+{background-image: url(../img/Картинки79.jpg);}
+.Картинки80
+{background-image: url(../img/Картинки80.jpg);}
+.Картинки81
+{background-image: url(../img/Картинки81.jpg);}
+.Картинки82
+{background-image: url(../img/Картинки82.jpg);}
+.Картинки83
+{background-image: url(../img/Картинки83.jpg);}
+.Картинки84
+{background-image: url(../img/Картинки84.jpg);}
+.Картинки85
+{background-image: url(../img/Картинки85.jpg);}
+.Картинки86
+{background-image: url(../img/Картинки86.jpg);}
+.Картинки87
+{background-image: url(../img/Картинки87.jpg);}
+.Картинки88
+{background-image: url(../img/Картинки88.jpg);}
+.Картинки89
+{background-image: url(../img/Картинки89.jpg);}
+.Картинки90
+{background-image: url(../img/Картинки90.jpg);}
+.Картинки91
+{background-image: url(../img/Картинки91.jpg);}
+.Картинки92
+{background-image: url(../img/Картинки92.jpeg);}
+.Картинки93
+{background-image: url(../img/Картинки93.jpg);}
+.Картинки94
+{background-image: url(../img/Картинки94.jpg);}
+.Картинки95
+{background-image: url(../img/Картинки95.jpg);}
+.Картинки96
+{background-image: url(../img/Картинки96.jpeg);}
+.Картинки97
+{background-image: url(../img/Картинки97.jpg);}
+.Картинки98
+{background-image: url(../img/Картинки98.jpg);}
+.Картинки99
+{background-image: url(../img/Картинки99.jpg);}
+.Картинки100
+{background-image: url(../img/Картинки100.jpg);}
+.Картинки101
+{background-image: url(../img/Картинки101.jpg);}
+.Картинки102
+{background-image: url(../img/Картинки102.jpg);}
+.Картинки103
+{background-image: url(../img/Картинки103.jpg);}
+.Картинки104
+{background-image: url(../img/Картинки104.jpg);}
+.Картинки105
+{background-image: url(../img/Картинки105.jpg);}
+.Картинки106
+{background-image: url(../img/Картинки106.jpg);}
+.Картинки107
+{background-image: url(../img/Картинки107.jpg);}
+.Картинки108
+{background-image: url(../img/Картинки108.jpg);}
+.Картинки109
+{background-image: url(../img/Картинки109.jpg);}
+.Картинки110
+{background-image: url(../img/Картинки110.jpg);}
+.Картинки111
+{background-image: url(../img/Картинки111.jpg);}
+.Картинки112
+{background-image: url(../img/Картинки112.jpg);}
+.Картинки113
+{background-image: url(../img/Картинки113.jpg);}
+.Картинки114
+{background-image: url(../img/Картинки114.jpg);}
+.Картинки115
+{background-image: url(../img/Картинки115.jpg);}
+.Картинки116
+{background-image: url(../img/Картинки116.jpg);}
+.Картинки117
+{background-image: url(../img/Картинки117.jpg);}
+.Картинки118
+{background-image: url(../img/Картинки118.jpg);}
+.Картинки119
+{background-image: url(../img/Картинки119.jpg);}
+.Картинки120
+{background-image: url(../img/Картинки120.jpg);}
+.Картинки121
+{background-image: url(../img/Картинки121.jpg);}
+
+
+
+
+
+
+
+
+
+
+
+.photo{
+max-height: 265;
+max-width: 490;
+width: calc(50% - 10px)	;
+height: calc(95vw/2/16*9);
+background-position: center;
+margin: 5px;
+background-size: cover;
+ -webkit-background-size: cover	;
+
+}
+
+
+.photo:hover{
+transform: rotate(2deg) scale(1.07);
+box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+transition: 1s;
+
+
+}
+
+a{
+font-family: Pacifico;
+color: red;
+font-size: 20px;
+margin-left: 600px;
+
+display: inline-block;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,219 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+main{
+display: flex;
+width: 80%;
+margin: auto;
+flex-wrap: wrap;
+box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+max-width: 1000px;
+color: #fff;
+}
+
+
+
+
+
+.img1
+{background-image: url(../img/img1.jpg);}
+.img2
+{background-image: url(../img/img2.jpg);}
+.img3
+{background-image: url(../img/img3.jpg);}
+.img4
+{background-image: url(../img/img4.jpg);}
+.img5
+{background-image: url(../img/img5.png);}
+.img6
+{background-image: url(../img/img6.jpg);}
+.img7
+{background-image: url(../img/img7.jpg);}
+.img8
+{background-image: url(../img/img8.jpg);}
+.img9
+{background-image: url(../img/img9.png);}
+.img10
+{background-image: url(../img/img10.png);}
+.img11
+{background-image: url(../img/img11.jpg);}
+.img12
+{background-image: url(../img/img12.png);}
+.img13
+{background-image: url(../img/img13.jpg);}
+.img14
+{background-image: url(../img/img14.jpg);}
+.img15
+{background-image: url(../img/img15.jpg);}
+.img16
+{background-image: url(../img/img16.jpg);}
+.img17
+{background-image: url(../img/img17.jpg);}
+.img18
+{background-image: url(../img/img18.jpg);}
+.img19
+{background-image: url(../img/img19.jpg);}
+.img20
+{background-image: url(../img/img20.jpg);}
+.Картинки1
+{background-image: url(../img/Картинки1.jpg);}
+.Картинки2
+{background-image: url(../img/Картинки2.jpg);}
+.Картинки3
+{background-image: url(../img/Картинки3.jpg);}
+.Картинки4
+{background-image: url(../img/Картинки4.jpg);}
+.Картинки5
+{background-image: url(../img/Картинки5.jpg);}
+.Картинки6
+{background-image: url(../img/Картинки6.jpg);}
+.Картинки7
+{background-image: url(../img/Картинки7.jpg);}
+.Картинки8
+{background-image: url(../img/Картинки8.jpg);}
+.Картинки9
+{background-image: url(../img/Картинки9.jpg);}
+.Картинки10
+{background-image: url(../img/Картинки10.jpg);}
+.Картинки11
+{background-image: url(../img/Картинки11.jpg);}
+.Картинки12
+{background-image: url(../img/Картинки12.jpg);}
+.Картинки13
+{background-image: url(../img/Картинки13.jpg);}
+.Картинки14
+{background-image: url(../img/Картинки14.jpg);}
+.Картинки15
+{background-image: url(../img/Картинки15.jpg);}
+.Картинки16
+{background-image: url(../img/Картинки16.jpg);}
+.Картинки17
+{background-image: url(../img/Картинки17.jpg);}
+.Картинки18
+{background-image: url(../img/Картинки18.jpg);}
+.Картинки19
+{background-image: url(../img/Картинки19.jpg);}
+.Картинки20
+{background-image: url(../img/Картинки20.jpg);}
+.Картинки21
+{background-image: url(../img/Картинки21.jpg);}
+.Картинки22
+{background-image: url(../img/Картинки22.jpg);}
+.Картинки23
+{background-image: url(../img/Картинки23.jpg);}
+.Картинки24
+{background-image: url(../img/Картинки24.jpg);}
+.Картинки25
+{background-image: url(../img/Картинки25.jpg);}
+.Картинки26
+{background-image: url(../img/Картинки26.jpg);}
+.Картинки27
+{background-image: url(../img/Картинки27.jpg);}
+.Картинки28
+{background-image: url(../img/Картинки28.jpeg);}
+.Картинки29
+{background-image: url(../img/Картинки29.jpg);}
+.Картинки30
+{background-image: url(../img/Картинки30.jpg);}
+.Картинки31
+{background-image: url(../img/Картинки31.jpg);}
+.Картинки32
+{background-image: url(../img/Картинки32.jpg);}
+.Картинки33
+{background-image: url(../img/Картинки33.jpeg);}
+.Картинки34
+{background-image: url(../img/Картинки34.jpg);}
+.Картинки35
+{background-image: url(../img/Картинки35.jpg);}
+.Картинки36
+{background-image: url(../img/Картинки36.jpg);}
+.Картинки37
+{background-image: url(../img/Картинки37.jpg);}
+.Картинки38
+{background-image: url(../img/Картинки38.jpg);}
+.Картинки39
+{background-image: url(../img/Картинки39.jpg);}
+.Картинки40
+{background-image: url(../img/Картинки40.jpg);}
+
+
+
+
+
+
+
+
+.photo{
+max-height: 265;
+max-width: 490;
+width: calc(50% - 10px)	;
+height: calc(95vw/2/16*9);
+background-position: center;
+margin: 5px;
+background-size: cover;
+ -webkit-background-size: cover	;
+
+}
+
+
+.photo:hover{
+transform: rotate(2deg) scale(1.07);
+box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+transition: 1s;
+
+
+}
+
+
+
+a{
+font-family: Pacifico;
+color: red;
+font-size: 20px;
+margin-left: 600px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

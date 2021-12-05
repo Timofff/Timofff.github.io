@@ -1,0 +1,125 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+main{
+display: flex;
+width: 80%;
+margin: auto;
+flex-wrap: wrap;
+box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+max-width: 1000px;
+color: #fff;
+}
+
+
+
+
+
+
+
+.Картинки41
+{background-image: url(../img/Картинки41.jpg);}
+.Картинки42
+{background-image: url(../img/Картинки42.jpg);}
+.Картинки43
+{background-image: url(../img/Картинки43.jpg);}
+.Картинки44
+{background-image: url(../img/Картинки44.jpg);}
+.Картинки45
+{background-image: url(../img/Картинки45.jpg);}
+.Картинки46
+{background-image: url(../img/Картинки46.jpg);}
+.Картинки47
+{background-image: url(../img/Картинки47.jpg);}
+.Картинки48
+{background-image: url(../img/Картинки48.jpg);}
+.Картинки49
+{background-image: url(../img/Картинки49.jpg);}
+.Картинки50
+{background-image: url(../img/Картинки50.jpg);}
+.Картинки51
+{background-image: url(../img/Картинки51.jpg);}
+.Картинки52
+{background-image: url(../img/Картинки52.jpg);}
+.Картинки53
+{background-image: url(../img/Картинки53.jpg);}
+.Картинки54
+{background-image: url(../img/Картинки54.jpg);}
+.Картинки55
+{background-image: url(../img/Картинки55.jpg);}
+.Картинки56
+{background-image: url(../img/Картинки56.jpg);}
+.Картинки57
+{background-image: url(../img/Картинки57.jpg);}
+.Картинки58
+{background-image: url(../img/Картинки58.jpg);}
+.Картинки59
+{background-image: url(../img/Картинки59.jpg);}
+.Картинки60
+{background-image: url(../img/Картинки60.jpg);}
+.Картинки61
+{background-image: url(../img/Картинки61.jpg);}
+.Картинки62
+{background-image: url(../img/Картинки62.jpg);}
+.Картинки63
+{background-image: url(../img/Картинки63.jpg);}
+.Картинки64
+{background-image: url(../img/Картинки64.jpg);}
+.Картинки65
+{background-image: url(../img/Картинки65.jpg);}
+.Картинки66
+{background-image: url(../img/Картинки66.jpg);}
+.Картинки67
+{background-image: url(../img/Картинки67.jpg);}
+.Картинки68
+{background-image: url(../img/Картинки68.jpg);}
+.Картинки69
+{background-image: url(../img/Картинки69.jpg);}
+.Картинки70
+{background-image: url(../img/Картинки70.jpg);}
+.Картинки71
+{background-image: url(../img/Картинки71.jpg);}
+.Картинки72
+{background-image: url(../img/Картинки72.jpg);}
+
+
+
+
+
+
+
+
+
+.photo{
+max-height: 265;
+max-width: 490;
+width: calc(50% - 10px)	;
+height: calc(95vw/2/16*9);
+background-position: center;
+margin: 5px;
+background-size: cover;
+ -webkit-background-size: cover	;
+
+}
+
+
+.photo:hover{
+transform: rotate(2deg) scale(1.07);
+box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+transition: 1s;
+
+
+}
+
+a{
+font-family: Pacifico;
+color: red;
+font-size: 20px;
+margin: 800px;
+
+
+
+
+}
