@@ -1,0 +1,71 @@
+*{padding: 0;
+margin: 0;
+display: block;
+
+}
+
+body
+{width: 65%;
+margin: auto;
+background-color: #c9f9ff;
+box-shadow: 0 0 20px 4px rgba(54, 243, 0.49, 0.5);
+}
+
+
+img 
+{
+
+width: 100%;
+height: auto;
+
+}
+
+div{	
+background: #fff;
+
+
+}
+
+p{
+font-family: Lobster;
+	text-align: center;
+padding: 20px;
+font-size: 30px;
+
+}
+
+h1
+{
+	font-family: Pacifico;
+text-align: center;
+padding-top: 50px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
